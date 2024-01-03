@@ -502,6 +502,8 @@ func playGame() {
 
 		_, rBoard, notUsedBoardIdMap = checkBoardWin(crrBoard, bIndex, boardId, crrPlayer)
 
+		// used here because the gaming was not stopping at the right moment when someone wins with draw in any board,
+		// it was getting the next play to finally ends
 		if checkFinalWin(rBoard, nxtPlayer) {
 			break
 		}
