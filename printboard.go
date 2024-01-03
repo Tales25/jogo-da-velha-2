@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func printCompleteBoard(arrayBoards [9]Board) {
 	printLine1(arrayBoards)

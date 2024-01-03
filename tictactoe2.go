@@ -20,11 +20,6 @@ var arrNotUsedIdMap = createArrUsedIdMap()
 var arrBoards = setGameBoards()
 var rBoard = setResultBoard()
 
-func main() {
-	printInfo()
-	playGame()
-}
-
 func setBoard(id string, arrBoards [9]Board) Board {
 	var b Board
 	var i int
