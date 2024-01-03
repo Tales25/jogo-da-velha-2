@@ -20,4 +20,4 @@ Você pode ver como funciona o jogo [aqui](https://www.tiktok.com/@clebitoyt/vid
 4. **Célula Coringa:**
     - Se um jogo da velha em um grande tabuleiro empata, ele pode ser usado por ambos os jogadores para vencer o jogo no grande tabuleiro.
 
-**Obs.:** Este foi um trabalho da faculdade.
+**Obs.:** Esse foi um trabalho da faculdade.
